@@ -1,0 +1,44 @@
+.box{
+    width: 1440px;
+    height: 1024px;
+    background-color: #2A5D5A;
+    margin: 10px auto;
+    box-sizing: border-box;
+}
+
+.top{
+    width: 636px;
+    height: 116px;
+    background-color: #311313;
+    margin: 0 auto;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+
+.top h1{
+    padding-top: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.asos{
+    width: 1000px;
+    height: 638px;
+    border: 10px solid #FF0606;
+    background-color: black;
+    margin-top: 70px;
+    margin-left: 200px;
+}
+
+.a{
+    width: 896px;
+    height: 259px;
+    background-color: #1FE8B7;
+    margin: 0 auto;
+}
+
+p{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 50px;
+}
